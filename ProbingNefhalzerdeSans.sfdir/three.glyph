@@ -1,0 +1,18 @@
+StartChar: three
+Encoding: 51 51 135
+Width: 500
+Flags: W
+HStem: 0 60<168 432> 482 20G<102 168>
+VStem: 102 66<60 502>
+LayerCount: 2
+Fore
+SplineSet
+432 60 m 5
+ 432 0 l 5
+ 102 0 l 5
+ 102 502 l 5
+ 168 502 l 5
+ 168 60 l 5
+ 432 60 l 5
+EndSplineSet
+EndChar

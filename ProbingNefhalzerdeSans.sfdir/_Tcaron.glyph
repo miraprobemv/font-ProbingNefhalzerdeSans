@@ -1,0 +1,11 @@
+StartChar: Tcaron
+Encoding: 356 356 114
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Fore
+Refer: 75 65 N 1 0 0 1 0 0 2
+Substitution2: "do-not-use-majuscule-1" tcaron
+EndChar

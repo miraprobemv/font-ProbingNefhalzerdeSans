@@ -1,0 +1,46 @@
+StartChar: scaron
+Encoding: 353 353 41
+Width: 740
+Flags: W
+HStem: -178 58<438 484.359> 486 20G<92 158 331 397 567.277 648>
+VStem: 92 66<91 506> 331 66<0 506> 582 66<-18.4011 414>
+LayerCount: 2
+Back
+SplineSet
+92 506 m 5
+ 158 506 l 5
+ 158 91 l 5
+ 588 506 l 5
+ 648 506 l 5
+ 648 0 l 5
+ 582 0 l 5
+ 582 414 l 5
+ 156 0 l 5
+ 92 0 l 5
+ 92 506 l 5
+EndSplineSet
+Fore
+SplineSet
+648 96 m 6
+ 648 -17 615 -119 456 -178 c 1
+ 438 -178 l 1
+ 438 -120 l 1
+ 535 -87 582 -20 582 96 c 2
+ 582 414 l 1
+ 156 0 l 1
+ 92 0 l 1
+ 92 506 l 1
+ 158 506 l 1
+ 158 91 l 1
+ 588 506 l 1
+ 648 506 l 1
+ 648 96 l 6
+331 506 m 1
+ 397 506 l 25
+ 397 0 l 1
+ 331 0 l 25
+ 331 506 l 1
+EndSplineSet
+LCarets2: 1 740
+Ligature2: "ligature-digraph-1" s h
+EndChar

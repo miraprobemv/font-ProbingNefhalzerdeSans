@@ -1,0 +1,21 @@
+StartChar: seven
+Encoding: 55 55 139
+Width: 500
+Flags: W
+HStem: 4 60<139 449> 442 60<58 353>
+LayerCount: 2
+Fore
+SplineSet
+139 64 m 1
+ 449 64 l 1
+ 449 4 l 1
+ 46 4 l 1
+ 46 54 l 1
+ 353 442 l 1
+ 58 442 l 1
+ 58 502 l 1
+ 446 502 l 1
+ 446 452 l 1
+ 139 64 l 1
+EndSplineSet
+EndChar

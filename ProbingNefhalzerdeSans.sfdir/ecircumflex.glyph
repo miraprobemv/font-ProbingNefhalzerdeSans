@@ -1,0 +1,17 @@
+StartChar: ecircumflex
+Encoding: 234 234 34
+Width: 1024
+LigCaretCntFixed: 1
+LayerCount: 2
+Back
+SplineSet
+422 132 m 2
+ 422 506 l 1
+ 488 506 l 1
+ 488 132 l 2
+ 488 -95 371 -178 133 -178 c 1
+ 111 -177 l 1
+ 111 -118 l 1
+ 333 -118 422 -84.6716658709 422 132 c 2
+EndSplineSet
+EndChar

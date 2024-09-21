@@ -1,0 +1,25 @@
+StartChar: uni1E09
+Encoding: 7689 7689 66
+Width: 590
+Flags: W
+HStem: -178 62<290 331.722> 0 21G<92 158> 442 60<158 432>
+VStem: 92 66<0 442> 432 66<-16.789 442>
+LayerCount: 2
+Fore
+SplineSet
+158 442 m 1
+ 158 0 l 1
+ 92 0 l 1
+ 92 502 l 1
+ 498 502 l 1
+ 498 378.666666667 498 255.333333333 498 132 c 0
+ 498 -36 464 -110 303 -178 c 1
+ 290 -178 l 1
+ 290 -116 l 1
+ 420 -59 432 2.03844062326 432 132 c 2
+ 432 442 l 1
+ 158 442 l 1
+EndSplineSet
+LCarets2: 1 590
+Ligature2: "ligature-digraph-1" q uni02BC
+EndChar

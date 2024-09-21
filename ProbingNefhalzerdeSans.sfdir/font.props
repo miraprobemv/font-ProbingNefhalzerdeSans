@@ -1,0 +1,206 @@
+SplineFontDB: 3.2
+FontName: ProbingNefhalzerdeSans
+FullName: Probing Nefhalzerde Sans
+FamilyName: ProbingNefhalzerdeSans
+Weight: Regular
+Copyright: Copyright (c) 2023, Mira, the Multiverse Probe
+UComments: "2023-6-6: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -180
+UnderlineWidth: 50
+Ascent: 790
+Descent: 234
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 762 -1358685633 31375]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1686015285
+ModificationTime: 1688160692
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "do-not-use-majuscule" { "do-not-use-majuscule-1" ("sameasminuscule") } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "voiceless" { "voiceless-1" ("voiceless") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "postalveolarize" { "postalveolarize-1" ("postalveolarized") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "palatalize" { "palatalize-1" ("palatalized") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "nasalize" { "nasalize-1" ("nasalized") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "aspirated" { "aspirated-1" ("aspirated") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "ligature-digraph" { "ligature-digraph-1"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 0 0 "context-digraph" { "context-digraph-1"  "context-digraph-2"  "context-digraph-3"  "context-digraph-4"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ContextSub2: class "context-digraph-4" 4 4 4 2
+  Class: 1 g
+  Class: 1 n
+  Class: 17 k uni0137 uni1E31
+  BClass: 1 g
+  BClass: 1 n
+  BClass: 17 k uni0137 uni1E31
+  FClass: 1 g
+  FClass: 1 n
+  FClass: 17 k uni0137 uni1E31
+ 2 0 0
+  ClsList: 2 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "palatalize"
+ 2 0 0
+  ClsList: 1 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "nasalize"
+  ClassNames: "All_Others" "g_char" "n_char" "palatal"
+  BClassNames: "All_Others" "g_char" "n_char" "palatal"
+  FClassNames: "All_Others" "g_char" "n_char" "palatal"
+EndFPST
+ContextSub2: class "context-digraph-3" 3 3 3 1
+  Class: 1 n
+  Class: 43 q ccircumflex uni01C6 uni1E09 scaron zcaron
+  BClass: 1 n
+  BClass: 43 q ccircumflex uni01C6 uni1E09 scaron zcaron
+  FClass: 1 n
+  FClass: 43 q ccircumflex uni01C6 uni1E09 scaron zcaron
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "postalveolarize"
+  ClassNames: "All_Others" "n_char" "postalveolar"
+  BClassNames: "All_Others" "n_char" "postalveolar"
+  FClassNames: "All_Others" "n_char" "postalveolar"
+EndFPST
+ContextSub2: class "context-digraph-2" 3 3 3 1
+  Class: 16 f thorn s scaron
+  Class: 3 l r
+  BClass: 16 f thorn s scaron
+  BClass: 3 l r
+  FClass: 16 f thorn s scaron
+  FClass: 3 l r
+ 2 0 0
+  ClsList: 2 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "voiceless"
+  ClassNames: "All_Others" "fricative" "lr"
+  BClassNames: "All_Others" "fricative" "lr"
+  FClassNames: "All_Others" "fricative" "lr"
+EndFPST
+ContextSub2: class "context-digraph-1" 5 5 5 4
+  Class: 1 j
+  Class: 5 r l w
+  Class: 43 uniA751 uni021B uni0137 uni023C ccircumflex
+  Class: 5 p t k
+  BClass: 1 j
+  BClass: 5 r l w
+  BClass: 43 uniA751 uni021B uni0137 uni023C ccircumflex
+  BClass: 5 p t k
+  FClass: 1 j
+  FClass: 5 r l w
+  FClass: 43 uniA751 uni021B uni0137 uni023C ccircumflex
+  FClass: 5 p t k
+ 2 0 0
+  ClsList: 2 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "voiceless"
+ 2 0 0
+  ClsList: 3 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "voiceless"
+ 2 0 0
+  ClsList: 3 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "voiceless"
+ 2 0 0
+  ClsList: 4 3
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "aspirated"
+  ClassNames: "All_Others" "j_char" "liquid" "aspiration" "stops"
+  BClassNames: "All_Others" "j_char" "liquid" "aspiration" "stops"
+  FClassNames: "All_Others" "j_char" "liquid" "aspiration" "stops"
+EndFPST
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2023, Mira, the Multiverse Probe (https://twitter.com/miraprobemv),+AAoA-with Reserved Font Name Nefhaldii.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 32 10
+BeginPrivate: 0
+EndPrivate
+Grid
+-92 342 m 25
+ 658 342 l 1049
+-92 169 m 25
+ 658 169 l 1049
+105 -258 m 25
+ 105 798 l 25
+ 105 -258 l 25
+455 -258 m 25
+ 455 798 l 25
+ 455 -258 l 25
+125 -258 m 25
+ 125 798 l 25
+ 125 -258 l 25
+-90 480 m 25
+ 1077 480 l 1049
+1077 476 m 25
+ -90 476 l 25
+ 1077 476 l 25
+-90 26 m 25
+ 1077 26 l 1049
+1077 30 m 25
+ -90 30 l 25
+ 1077 30 l 25
+92 798 m 25
+ 92 -258 l 1049
+-90 708 m 25
+ 1077 708 l 1049
+-90 -152 m 25
+ 1077 -152 l 1049
+-90 0 m 25
+ 1077 0 l 1049
+-90 734 m 25
+ 1077 734 l 1049
+-90 -178 m 25
+ 1077 -178 l 1049
+-90 506 m 29
+ 1077 506 l 1049
+EndSplineSet
+TeXData: 1 0 0 307200 153600 102400 518144 1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

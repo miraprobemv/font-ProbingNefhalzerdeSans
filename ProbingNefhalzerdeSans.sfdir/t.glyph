@@ -1,0 +1,21 @@
+StartChar: t
+Encoding: 116 116 8
+Width: 590
+Flags: W
+HStem: 0 21G<92 158 432 498> 442 60<158 432>
+VStem: 92 66<0 442> 432 66<0 442>
+LayerCount: 2
+Fore
+SplineSet
+158 442 m 5
+ 158 0 l 5
+ 92 0 l 5
+ 92 502 l 5
+ 498 502 l 5
+ 498 0 l 5
+ 432 0 l 5
+ 432 442 l 5
+ 158 442 l 5
+EndSplineSet
+Substitution2: "aspirated-1" uni021B
+EndChar
